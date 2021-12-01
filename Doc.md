@@ -1,5 +1,5 @@
-<title>Documentation</title>
-<a href="https://git-scm.com/doc">Git - Documentation</a>
-<a href="https://guides.github.com/features/mastering-markdown">Markdown - Documentation</a>
-<a href="https://www.markdownguide.org/basic-syntax/">Markdown - bestpractices</a>
+# Documentation
+[Git - Documentation](https://git-scm.com/doc)
+[Markdown - Documentation](https://guides.github.com/features/mastering-markdown)
+[Markdown - bestpractices](https://www.markdownguide.org/basic-syntax)
 
